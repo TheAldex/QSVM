@@ -11,5 +11,7 @@ Therefore, an example of these Quantum Support Vector Machines (QSVM) has been i
 ## How to Try
 If you want to try the implementation you just to type in your console:
 
+```
 python py_file.py (or python2, python3 instead)
+```
 
